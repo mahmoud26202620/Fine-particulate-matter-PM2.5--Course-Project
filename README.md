@@ -40,6 +40,12 @@ The main core of the project to answer the following 6 questions :
 
 **6** Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (fips == "06037"). Which city has seen greater changes over time in motor vehicle emissions?
 
+**First:** loading the packages we will used through the project
+
+```
+library(tidyverse)
+```
+
 **Reading the data**
 
 ```
